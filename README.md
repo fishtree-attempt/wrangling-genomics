@@ -1,12 +1,17 @@
+> **ATTENTION** This is an experimental test of the [{sandpaper}](https://carpentries.github.io/sandpaper-docs) lesson infrastructure
+> with automated conversion via [the lesson transition script](https://github.com/data-lessons/lesson-transition/).
+> 
+> If anything seems off, please contact Zhian Kamvar [zkamvar@carpentries.org](mailto:zkamvar@carpentries.org)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3260609.svg)](https://doi.org/10.5281/zenodo.3260609)
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) 
-[![Slack Status](https://img.shields.io/badge/Slack_Channel-dc--genomics-E01563.svg)](https://swcarpentry.slack.com/messages/C9N1K7DCY) 
+[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+[![Slack Status](https://img.shields.io/badge/Slack_Channel-dc--genomics-E01563.svg)](https://swcarpentry.slack.com/messages/C9N1K7DCY)
 
 # Wrangling Genomics
 
 Lesson for quality control and wrangling genomics data. This repository is maintained by [Josh Herr](https://github.com/jrherr), [Ming Tang](https://github.com/crazyhottommy), and [Fotis Psomopoulos](https://github.com/fpsom).
 
-Amazon public AMI for this tutorial is "dataCgen-qc". 
+Amazon public AMI for this tutorial is "dataCgen-qc".
 
 ## Background
 
@@ -30,4 +35,6 @@ Wrangling genomics is authored and maintained by the [community](https://github.
 
 Please cite as:
 
-Erin Alison Becker, Taylor Reiter, Fotis Psomopoulos, Sheldon John McKay, Jessica Elizabeth Mizzi, Jason Williams, … Winni Kretzschmar. (2019, June). datacarpentry/wrangling-genomics: Data Carpentry: Genomics data wrangling and processing, June 2019 (Version v2019.06.1). Zenodo. http://doi.org/10.5281/zenodo.3260609
+Erin Alison Becker, Taylor Reiter, Fotis Psomopoulos, Sheldon John McKay, Jessica Elizabeth Mizzi, Jason Williams, … Winni Kretzschmar. (2019, June). datacarpentry/wrangling-genomics: Data Carpentry: Genomics data wrangling and processing, June 2019 (Version v2019.06.1). Zenodo. [http://doi.org/10.5281/zenodo.3260609](http://doi.org/10.5281/zenodo.3260609)
+
+
