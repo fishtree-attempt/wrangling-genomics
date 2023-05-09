@@ -25,7 +25,13 @@
     <loc>https://preview.carpentries.org/wrangling-genomics/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/wrangling-genomics/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/wrangling-genomics/index.html</loc>
@@ -55,16 +61,34 @@
     <loc>https://preview.carpentries.org/wrangling-genomics/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/wrangling-genomics/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/wrangling-genomics/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/wrangling-genomics/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/wrangling-genomics/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/wrangling-genomics/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/wrangling-genomics/profiles.html</loc>
